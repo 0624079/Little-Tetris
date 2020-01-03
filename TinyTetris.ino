@@ -1,7 +1,6 @@
 #include <SeeedOLED.h>
 #include <Wire.h>
 #include "TetrisTheme.cpp"
-#include "dpad.cpp"
 
 #define OLED_ADDRESS	        	    0x3C //you may need to change this, this is the OLED I2C address.  
 #define OLED_COMMAND	              0x80
